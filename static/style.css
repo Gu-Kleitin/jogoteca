@@ -1,17 +1,46 @@
-.page-header {
-  background-color: #3465a4;
+body{
+  background-color: rgb(28, 28, 28)!important;
 }
 
-.cabecalho img {
-  width: 80px;
-  margin: 20px;
+h1{
+  color: rgb(209, 205, 199)!important;
+  font-weight: 10px !important;
+  font-family: Georgia, serif !important;
+}
+td{
+  color: white!important;
+  font-family: Georgia, serif !important;
+  
+}
+button{
+  font-family: Georgia, serif !important;
+}
+label{
+  color: rgb(209, 205, 199)!important;
+  font-family: Georgia, serif !important;
+}
+input{
+  color: #363636!important;
+}
+table{
+  background-color: #363636!important;
+  
+}
+.cabecalho{
+  background-image: linear-gradient(to bottom, rgb(0,0,0), rgb(28,28,28)) !important;
+  background-attachment: fixed !important;
+  weight: 200px: !important;
+  display: flex !important;
+  padding: 20px !important;
+  
 }
 
-.cabecalho {
-  display: flex;
-  align-items: center;
+.display-2{
+  font-size: 90px !important;
+  weight: 100px !important;
+  font-family: Georgia, serif !important;
 }
-
-.cabecalho h1 {
-  color: white;
+.hm{
+  color: black !important;
+  background-color: whitesmoke !important;
 }

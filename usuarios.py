@@ -17,3 +17,4 @@ def buscar(email, senha):
         return usuario
     else:
         return None
+        
